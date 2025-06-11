@@ -1,8 +1,8 @@
 tensorflow==2.16.1
 streamlit==1.35.0
-librosa==0.11.1
+librosa==0.10.1
 scikit-learn==1.4.2
-joblib==1.4.    2
+joblib==1.4.2
 pandas==2.2.2
 plotly==5.22.0
 matplotlib==3.8.4
