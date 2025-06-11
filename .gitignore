@@ -1,0 +1,19 @@
+# Abaikan folder Virtual Environment
+.venv/
+venv/
+Scripts/
+Lib/
+Include/
+
+# Abaikan file cache Python
+__pycache__/
+*.pyc
+
+# Abaikan folder hasil olahan data (opsional, tapi disarankan)
+RAVDESS_sorted/
+
+# Abaikan dataset mentah jika ukurannya besar (opsional)
+dataset/
+
+# Abaikan file data NumPy
+*.npy
